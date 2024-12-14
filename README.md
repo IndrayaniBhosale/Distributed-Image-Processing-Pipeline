@@ -54,7 +54,7 @@ start-yarn.sh
 hdfs dfs -mkdir -p /images/cifar10/
 
 ### 3. Run Jupyter Notebook
-Launch Jupyter Notebook and open `Image_Classification_Final.ipynb`:
+Launch Jupyter Notebook and open `Distributed Image Processing Pipeline.ipynb`:
 
 ---
 
