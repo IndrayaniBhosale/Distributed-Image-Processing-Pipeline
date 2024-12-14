@@ -1,4 +1,4 @@
-# Distributed-Image-Processing-Pipeline
+# CPSC 531 -  Distributed-Image-Processing-Pipeline
 
 This project implements a distributed image processing pipeline using the Hadoop ecosystem and TensorFlow. The pipeline performs image classification on the CIFAR-10 dataset using distributed computing frameworks like HDFS, Spark, and TensorFlow, enabling scalable and efficient processing of large-scale image datasets.
 
